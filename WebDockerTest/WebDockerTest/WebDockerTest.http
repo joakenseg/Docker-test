@@ -1,6 +1,0 @@
-@WebDockerTest_HostAddress = http://localhost:5080
-
-GET {{WebDockerTest_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
